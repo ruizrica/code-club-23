@@ -1,4 +1,4 @@
-# JavaScript Cheat Sheet for Beginners
+# JavaScript Cheat Sheet
 
 ## Variables and Data Types
 - Declaring a variable
